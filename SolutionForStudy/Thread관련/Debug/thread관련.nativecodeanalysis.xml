@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\hunic\myunghun_portfolio\solutionforstudy\thread관련\</FILEPATH>
+      <FILENAME>thread관련.cpp</FILENAME>
+      <LINE>53</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6258</DEFECTCODE>
+    <DESCRIPTION>TerminateThread를 사용하면 스레드가 제대로 정리되지 않습니다.</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>41</FUNCLINE>
+    <PATH />
+  </DEFECT>
+</DEFECTS>
