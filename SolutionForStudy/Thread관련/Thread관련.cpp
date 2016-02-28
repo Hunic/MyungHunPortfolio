@@ -53,5 +53,6 @@ int main()
 	TerminateThread(hThread, dwExitCode);
 	WaitForSingleObject(hThread, INFINITE);
 	CloseHandle(hThread);
+	//ignore add Test
 	return 0;
 }
